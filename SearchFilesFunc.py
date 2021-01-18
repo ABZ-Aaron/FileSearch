@@ -1,6 +1,5 @@
 import os
 import re
-import pandas as pd
 
 IGNOREWORDCASE = False
 FOLDERPATH = "/Users/aaronwright/Downloads/TextFiles"
