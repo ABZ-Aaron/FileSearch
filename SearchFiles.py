@@ -14,7 +14,6 @@ import sys
 
 ################ FUNCTIONS ################
 
-
 def save_to_file(wordlist):
     """Save list to CSV format and save CSV to script directory"""
     script_directory = os.path.dirname(sys.argv[0]) # Path where script is being run from
