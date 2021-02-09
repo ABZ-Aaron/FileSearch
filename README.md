@@ -4,6 +4,8 @@ This is a simple Tkinter script designed to search a number of files for a speci
 
 ![](AppImage.png)
 
+## Instructions
+
 Simply run the script through a terminal/command window to open the form
 
 1. Select a directory
@@ -11,11 +13,11 @@ Simply run the script through a terminal/command window to open the form
 3. Select whether to ignore case or not, and click `Go`
 4. Output will appear in the list box, and will also be saved to a CSV
 
-### What I learned completing this project
+## What I learned completing this project
 
 I learned the basics of Python's Tkinter and event driven programming. I also understand a little bit more about handline multiple files.
 
-### Future Changes
+## Future Changes
 
 Here are some changes I may make in the future
 
