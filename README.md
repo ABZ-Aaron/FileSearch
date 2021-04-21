@@ -15,7 +15,7 @@ Simply run the script through a terminal/command window to open the form
 
 ## What I learned completing this project
 
-I learned the basics of Python's Tkinter and event driven programming. I also understand a little bit more about handline multiple files.
+I learned the basics of Python's Tkinter and event driven programming. I also understand a little bit more about handling multiple files.
 
 ## Future Changes
 
@@ -27,5 +27,3 @@ Here are some changes I may make in the future
 * Allow the ability to use regular expression when searching
 * More options, like specifying whether you would like a csv copy of the output, where this should be saved, etc
 * Use `pyinstaller` to conver this to a desktop app
-
-Have a great day!
